@@ -62,7 +62,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 <img width="405" height="191" alt="Screenshot 2025-11-10 161529" src="https://github.com/user-attachments/assets/5e7158bc-4bcf-406e-a5dc-b0bdf6254526" />
 
@@ -116,48 +116,9 @@ int main() {
 }
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##OUTPUT
+## OUTPUT
 
 <img width="665" height="275" alt="Screenshot 2025-11-10 161543" src="https://github.com/user-attachments/assets/954a96e3-c063-443f-94c4-de5bc99dc5fe" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # RESULT:
